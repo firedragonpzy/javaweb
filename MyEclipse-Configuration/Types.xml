@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><templates><template autoinsert="false" context="typecomment_context" deleted="false" description="Comment for created types" enabled="true" id="org.eclipse.jdt.ui.text.codetemplates.typecomment" name="typecomment">/**&#13;
+ * &lt;p&gt;Title: ${type_name}&lt;/p&gt;&#13;
+ * &lt;p&gt;Description:&lt;/p&gt;&#13;
+ * &lt;p&gt;Copyright © 2015 Software MyZone. All Rights Reserved&lt;/p&gt; &#13;
+ * @author        firedragonpzy&#13;
+ * @date        ${date} ${time}&#13;
+ * @version 1.0&#13;
+ */</template></templates>
